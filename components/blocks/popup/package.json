@@ -1,0 +1,20 @@
+{
+  "name": "popup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.11.0",
+    "@wordpress/blocks": "^12.17.0",
+    "@wordpress/components": "^25.9.0",
+    "@wordpress/block-editor": "^12.11.0",
+    "@wordpress/data": "^9.13.0"
+  }
+}

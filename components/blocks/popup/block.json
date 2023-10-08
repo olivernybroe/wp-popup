@@ -1,0 +1,8 @@
+{
+  "apiVersion": 3,
+  "title": "Popup",
+  "name": "olivernybroe/popup",
+  "category": "layout",
+  "icon": "universal-access-alt",
+  "editorScript": "file:./build/index.js"
+}

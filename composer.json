@@ -1,0 +1,13 @@
+{
+  "name": "olivernybroe/popup",
+  "description": "Popups with exit intent support",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "OliverNybroe\\Popup\\": "src/"
+    }
+  },
+  "scripts": {
+    "build": "zip -r Popup.zip . -x components/blocks/popup/node_modules/\\*"
+  }
+}
